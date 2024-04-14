@@ -1,0 +1,29 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "name": "Nếu bạn tạo một ./publicthư mục, JSON Serve sẽ phân phát nội dung của nó ngoài API REST.",
+      "description": "Lúc độc thân muốn tìm một người"
+    },
+    {
+      "id": "2",
+      "name": "trần đức toàn",
+      "description": "Lúc độc thân muốn tìm một người"
+    },
+    {
+      "id": "c9ff",
+      "name": "aaOK",
+      "description": "123"
+    },
+    {
+      "id": "c1d3",
+      "name": "header",
+      "description": "description5"
+    },
+    {
+      "id": "a76c",
+      "name": "123",
+      "description": "123"
+    }
+  ]
+}
